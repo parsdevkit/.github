@@ -1,10 +1,10 @@
-# Welcome to Pars DevKit on GitHub! 👋
+# Welcome to Pars Dev Kit on GitHub! 👋
 
-This is the official GitHub profile for the **Pars DevKit** project. We are dedicated to providing developers with the tools and resources they need to build powerful and efficient software solutions.
+This is the official GitHub profile for the **Pars Dev Kit** project. We are dedicated to providing developers with the tools and resources they need to build powerful and efficient software solutions.
 
 ## About Us
 
-Pars DevKit focuses on enabling developers to create robust, scalable, and maintainable applications by offering:
+Pars Dev Kit focuses on enabling developers to create robust, scalable, and maintainable applications by offering:
 
 - **Modular Libraries:** Build your project with well-designed and reusable components.
 - **Comprehensive Documentation:** [Explore our Docs](https://docs.parsdevkit.net)
@@ -32,6 +32,6 @@ We are constantly evolving and welcome contributions from the community. Whether
 
 ## Get Started
 
-To begin your journey with Pars DevKit, check out our [Getting Started Guide](https://docs.parsdevkit.net/getting-started/concept/index.html#conclusion).
+To begin your journey with Pars Dev Kit, check out our [Getting Started Guide](https://docs.parsdevkit.net/getting-started/concept/index.html#conclusion).
 
 Together, let’s build something amazing! 🚀
